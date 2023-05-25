@@ -1,18 +1,18 @@
 [
   {
-   "title": "",
+   "title": "AK-74 weapon",
    "type": "save",
-   "thumbnailImage": "",
-   "detailImage": "",
-   "description": "",
-   "fileUrl": "" 
+   "thumbnailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Weapon/AK-74%20weapon/thumb.jpg",
+   "detailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Weapon/AK-74%20weapon/thumb.jpg",
+   "description": "/n Notes: /n • Beautiful /n • Suitable for rp scenes /n • Shoots /n (Author): @People_1839",
+   "fileUrl": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Weapon/AK-74%20weapon/AK74%20rifle%20by%20pl1839%E2%80%8B.melsave" 
   },
   {
-   "title": "",
-   "type": "",
-   "thumbnailImage": "",
-   "detailImage": "",
-   "description": "",
-   "fileUrl": "" 
-  },
+   "title": "C-75",
+   "type": "save",
+   "thumbnailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Weapon/C-75/thumb.jpg",
+   "detailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Weapon/C-75/thumb.jpg",
+   "description": "Notes: /n • Shoots a rocket /n • Good flight  /n • Big bang on impact  /n • Suitable for RP /n (Author): @Hllaqb",
+   "fileUrl": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Weapon/C-75/C-75.melsave" 
+  }
 ]
