@@ -4,8 +4,7 @@
    "type": "save",
    "thumbnailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/The%20house/thumb.jpg",
    "detailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/The%20house/thumb.jpg",
-   "description": "Notes: /n • Made for weak devices /n • Excellent destructibility /n (Author): Max"
-    ,
+   "description": "Notes: /n • Made for weak devices /n • Excellent destructibility /n (Author): Max",
    "fileUrl": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/The%20house/The%20house.melsave" 
   },
   {
@@ -13,8 +12,7 @@
    "type": "save",
    "thumbnailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/House%202/thumb.jpg",
    "detailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/House%202/thumb.jpg",
-   "description": "Notes: /n • Made for weak devices/n • Excellent destructibility /n • There are movable elements /n(Author): Max"
-  ,
+   "description": "Notes: /n • Made for weak devices/n • Excellent destructibility /n • There are movable elements /n(Author): Max",
    "fileUrl": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/House%202/House%20M%202.melsave" 
-  },
+  }
 ]
