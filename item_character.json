@@ -1,18 +1,42 @@
 [
   {
-   "title": "",
+   "title": "Boxy Boo",
    "type": "save",
-   "thumbnailImage": "",
-   "detailImage": "",
-   "description": "",
-   "fileUrl": "" 
+   "thumbnailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Character/Boxy%20Boo/thumb.jpg",
+   "detailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Character/Boxy%20Boo/thumb.jpg",
+   "description": "Boxy Boo of monsters from the game: Project: Playtime /n Notes: /n Beautiful /n Can make wounds npc /n(Author): @snechous",
+   "fileUrl": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Character/Boxy%20Boo/Boxy%20Boo%E2%80%8B.melsave" 
   },
   {
-   "title": "",
-   "type": "",
-   "thumbnailImage": "",
-   "detailImage": "",
-   "description": "",
-   "fileUrl": "" 
+   "title": "Huggy Wuggy",
+   "type": "save",
+   "thumbnailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Character/Huggy%20Wuggy/thumb.jpg",
+   "detailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Character/Huggy%20Wuggy/thumb.jpg",
+   "description": "Huggy Wuggy of monsters from the game: 'Project: Playtime' /n Notes: /n • Beautiful /n • Can make wounds npc /n (Author): @snechous",
+   "fileUrl": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Character/Huggy%20Wuggy/Huggy%20Wuggy%E2%80%8B.melsave" 
   },
+    {
+   "title": "Mommy Long Legs",
+   "type": "save",
+   "thumbnailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Character/Mommy%20Long%20Legs/thumb.jpg",
+   "detailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Character/Mommy%20Long%20Legs/thumb.jpg",
+   "description": "Mommy Long Legs of monsters from the game: 'Project: Playtime' /n Notes: /n • Beautiful /n • Can make wounds npc /n (Author): @snechous",
+   "fileUrl": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Character/Mommy%20Long%20Legs/Mommy%20Long%20Legs%E2%80%8B.melsave" 
+  },
+    {
+   "title": "Mountain Golem",
+   "type": "mod",
+   "thumbnailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Character/Mountain%20Golem/thumb.jpg",
+   "detailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Character/Mountain%20Golem/thumb.jpg",
+   "description": "Notes: /n • Beautiful /n • Single layer /n • Suitable for RP /n (Author): @cosmocato",
+   "fileUrl": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Character/Mountain%20Golem/Mountain%20Golem.melmod" 
+  },
+    {
+   "title": "NPC in a hazmat suit",
+   "type": "mod",
+   "thumbnailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Character/NPC%20in%20a%20hazmat%20suit/thumb.jpg",
+   "detailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Character/NPC%20in%20a%20hazmat%20suit/thumb.jpg",
+   "description": "• Detailed /n • Suitable for RPm/n • Single layer /n Автор (Author): @basic_melon",
+   "fileUrl": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Character/NPC%20in%20a%20hazmat%20suit/NPC%20in%20a%20hazmat%20suit.melmod" 
+  }
 ]
