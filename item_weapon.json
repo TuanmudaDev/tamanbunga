@@ -1,5 +1,6 @@
 [
   {
+   "id":1,
    "title": "AK-74 weapon",
    "type": "save",
    "thumbnailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Weapon/AK-74%20weapon/thumb.jpg",
@@ -8,6 +9,7 @@
    "fileUrl": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Weapon/AK-74%20weapon/AK74%20rifle%20by%20pl1839%E2%80%8B.melsave" 
   },
   {
+   "id":2,
    "title": "C-75",
    "type": "save",
    "thumbnailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Weapon/C-75/thumb.jpg",
