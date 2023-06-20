@@ -1,6 +1,6 @@
 [
   {
-   "id":1,
+   "id": "e6dfeabc-6add-42d7-b686-3d145e4638ce",
    "title": "Gelendvagen",
    "type": "save",
    "thumbnailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Vehicle/Gelendvagen/thumb.jpg",
@@ -9,7 +9,7 @@
    "fileUrl": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Vehicle/Gelendvagen/Gelendvagen.melsave" 
   },
   {
-   "id":2,
+   "id": "859ef01c-3fd9-4127-8dd1-f844c6297c6f",
    "title": "M-ATV",
    "type": "save",
    "thumbnailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Vehicle/M-ATV/thumb.jpg",
