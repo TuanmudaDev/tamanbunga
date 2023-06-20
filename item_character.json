@@ -1,6 +1,6 @@
 [
   {
-   "id":1,
+   "id": "91687aab-c5e0-48d4-9913-0acdf298a873",
    "title": "Boxy Boo",
    "type": "save",
    "thumbnailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Character/Boxy%20Boo/thumb.jpg",
@@ -9,7 +9,7 @@
    "fileUrl": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Character/Boxy%20Boo/Boxy%20Boo%E2%80%8B.melsave" 
   },
   {
-   "id":2,
+   "id": "1145ddb3-254b-4146-a756-8a457f0f019b",
    "title": "Huggy Wuggy",
    "type": "save",
    "thumbnailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Character/Huggy%20Wuggy/thumb.jpg",
@@ -18,7 +18,7 @@
    "fileUrl": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Character/Huggy%20Wuggy/Huggy%20Wuggy%E2%80%8B.melsave" 
   },
     {
-   "id":3,
+   "id": "8189ec8a-6394-479d-aaa5-1ad78c493a0b",
    "title": "Mommy Long Legs",
    "type": "save",
    "thumbnailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Character/Mommy%20Long%20Legs/thumb.jpg",
@@ -27,7 +27,7 @@
    "fileUrl": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Character/Mommy%20Long%20Legs/Mommy%20Long%20Legs%E2%80%8B.melsave" 
   },
     {
-   "id":4,
+   "id": "1938f9f2-f949-4613-bc7d-85e844122b24",
    "title": "Mountain Golem",
    "type": "mod",
    "thumbnailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Character/Mountain%20Golem/thumb.jpg",
@@ -37,7 +37,7 @@
   },
     {
       
-   "id": 5,
+   "id": "54c1c799-d2a3-47ef-83d0-4f82ad9308f9",
    "title": "NPC in a hazmat suit",
    "type": "mod",
    "thumbnailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Character/NPC%20in%20a%20hazmat%20suit/thumb.jpg",
