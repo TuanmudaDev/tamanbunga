@@ -87,5 +87,86 @@
    "description": "Vacation home\nNote:\n•beautiful\n• there are things without collision\n•  destroy\n• there is a first, second floor and an attic\n•there is a balcony\nАвтор(Author): Deniis Deniis",
    "fileUrl": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/Vacation%20home/domus%E2%80%8B.melsave" 
   }
+  {
+   "id": 29918,
+   "title": "Beach Dock",
+   "type": "save",
+   "thumbnailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/Beach%20Docks/Beach%20Docks.jpg",
+   "detailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/Beach%20Docks/Beach%20Docks.jpg",
+   "description": "",
+   "fileUrl": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/Beach%20Docks/Beach%20Docks.melsave" 
+  }
+  {
+   "id":27212,
+   "title": "Big House",
+   "type": "save",
+   "thumbnailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/Big%20house/Big%20house.jpg",
+   "detailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/Big%20house/Big%20house.jpg",
+   "description": "",
+   "fileUrl": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/Big%20house/Big%20house.melsave" 
+  }
+  {
+   "id":19998,
+   "title": "Multi Storey Cafe Bar",
+   "type": "save",
+   "thumbnailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/Multi%20Storey%20Cafe%20Bar/Multi%20Storey%20Cafe%20Bar.jpg",
+   "detailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/Multi%20Storey%20Cafe%20Bar/Multi%20Storey%20Cafe%20Bar.jpg",
+   "description": "",
+   "fileUrl": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/Multi%20Storey%20Cafe%20Bar/Multi%20Storey%20Cafe%20Bar.melsave" 
+  }
+  {
+   "id":76700,
+   "title": "Prison",
+   "type": "save",
+   "thumbnailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/Prison/Prison.jpg",
+   "detailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/Prison/Prison.jpg",
+   "description": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/Prison/prison%E2%80%8B.melsave",
+   "fileUrl": "" 
+  }
+  {
+   "id":12695,
+   "title": "Room with Electric Chair",
+   "type": "save",
+   "thumbnailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/Room%20with%20electric%20chair/Room%20with%20electric%20chair.jpg",
+   "detailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/Room%20with%20electric%20chair/Room%20with%20electric%20chair.jpg",
+   "description": "",
+   "fileUrl": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/Room%20with%20electric%20chair/Room%20with%20electric%20chair.melsave" 
+  }
+  {
+   "id":18478,
+   "title": "Shop",
+   "type": "save",
+   "thumbnailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/Shop/Shop.jpg",
+   "detailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/Shop/Shop.jpg",
+   "description": "",
+   "fileUrl": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/Shop/Shop.melsave" 
+  }
+  {
+   "id":68602,
+   "title": "Tikhonovka",
+   "type": "save",
+   "thumbnailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/Tikhonovka/Tikhonovka.jpg",
+   "detailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/Tikhonovka/Tikhonovka.jpg",
+   "description": "",
+   "fileUrl": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/Tikhonovka/Tikhonovka.melsave" 
+  }
+  {
+   "id":96864,
+   "title": "Two Storey House",
+   "type": "save",
+   "thumbnailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/Two%20Storey%20House/Two%20Storey%20House.jpg",
+   "detailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/Two%20Storey%20House/Two%20Storey%20House.jpg",
+   "description": "",
+   "fileUrl": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/Two%20Storey%20House/Two%20Storey%20House.melsave" 
+  }
+  {
+   "id":79715,
+   "title": "Zag House",
+   "type": "save",
+   "thumbnailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/Zag%20House/Zag%20House.jpg",
+   "detailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/Zag%20House/Zag%20House.jpg",
+   "description": "",
+   "fileUrl": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/Zag%20House/Zag%20House.melsave" 
+  }
   
 ]
