@@ -116,5 +116,50 @@
    "detailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Weapon/Weapon%20-%20AWP%20from%20the%20game%20CSGO/photo_2023-06-22_20-30-23.jpg",
    "description": "Weapon - AWP from the game CS:GO\n• Replaced sounds when shooting\n• Can be picked up\nАвтор (Author): @Prostvn",
    "fileUrl": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Weapon/Weapon%20-%20AWP%20from%20the%20game%20CSGO/AWP.melmod" 
+  },
+  {
+   "id": 62724,
+   "title": "AK47 GB",
+   "type": "mod",
+   "thumbnailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Weapon/AK47%20GB/AK47%20GB.jpg",
+   "detailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Weapon/AK47%20GB/AK47%20GB.jpg",
+   "description": "",
+   "fileUrl": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Weapon/AK47%20GB/AK47%20GB.melmod" 
+  },
+  {
+   "id": 16653,
+   "title": "Mossberg 930",
+   "type": "mod",
+   "thumbnailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Weapon/Mossberg%20930/Mossberg%20930.jpg",
+   "detailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Weapon/Mossberg%20930/Mossberg%20930.jpg",
+   "description": "",
+   "fileUrl": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Weapon/Mossberg%20930/Mossberg%20930.melmod" 
+  },
+  {
+   "id": 70758,
+   "title": "Queiz Gun",
+   "type": "mod",
+   "thumbnailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Weapon/Queiz%20Gun/Queiz%20Gun.jpg",
+   "detailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Weapon/Queiz%20Gun/Queiz%20Gun.jpg",
+   "description": "",
+   "fileUrl": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Weapon/Queiz%20Gun/Queiz%20Gun.melmod" 
+  },
+  {
+   "id": 18158,
+   "title": "Sniper Shotgun",
+   "type": "mod",
+   "thumbnailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Weapon/Sniper%20Shotgun/Sniper%20Shotgun.jpg",
+   "detailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Weapon/Sniper%20Shotgun/Sniper%20Shotgun.jpg",
+   "description": "",
+   "fileUrl": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Weapon/Sniper%20Shotgun/Sniper%20Shotgun.melmod" 
+  },
+  {
+   "id": 28508,
+   "title": "TSR 525",
+   "type": "mod",
+   "thumbnailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Weapon/TSR%20525/TSR%20525.jpg",
+   "detailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Weapon/TSR%20525/TSR%20525.jpg",
+   "description": "",
+   "fileUrl": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Weapon/TSR%20525/TSR%20525.melmod" 
   }
 ]
