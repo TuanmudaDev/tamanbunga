@@ -9,15 +9,6 @@
 		"fileUrl": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/The%20house/The%20house.melsave"
 	},
 	{
-		"id": 46464,
-  		"title": "Two Storey",
-		"type": "save",
-  		"thumbnailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/mtoy%20story/Two%20Storey.jpg",
-  		"detailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/mtoy%20story/Two%20Storey.jpg",
-  		"description": "Yaga e 100\nNotes:\n• Working track\n• Shoots \n• Not for weak devices\nАвтор (Author): @topuggi",
-  		"fileUrl": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/mtoy%20story/sTwo%20Storey.zip" 
-	},
-	{
 		"id": 521460,
 		"title": "House M 2",
 		"type": "save",
@@ -161,13 +152,5 @@
 		"description": "",
 		"fileUrl": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/Two%20Storey%20House/Two%20Storey%20House.melsave"
 	},
-  {
-		"id": 79715,
-		"title": "Zag House",
-		"type": "save",
-		"thumbnailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/Zag%20House/Zag%20House.jpg",
-		"detailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/Zag%20House/Zag%20House.jpg",
-		"description": "",
-		"fileUrl": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/Zag%20House/Zag%20House.melsave"
-	}
+
 ]
