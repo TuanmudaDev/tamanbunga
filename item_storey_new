@@ -5,7 +5,7 @@
 		"thumbnailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/mtoy%20story/Two%20Storey.jpg",
 		"detailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/mtoy%20story/Two%20Storey.jpg",
 		"description": "Notes: \n • Made for weak devices \n • Excellent destructibility \n (Author): Max",
-		"fileUrlSave": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/mtoy%20story/sTwo%20Storey.zip"
-        "fileUrlMod": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/mtoy%20story/mTwo%20Storey.zip"
+		"fileUrlSave": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/mtoy%20story/sTwo%20Storey.zip",
+       		"fileUrlMod": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/mtoy%20story/mTwo%20Storey.zip"
 	},
 ]
