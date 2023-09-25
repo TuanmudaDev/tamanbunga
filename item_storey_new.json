@@ -31,6 +31,6 @@
   		"thumbnailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/mtoy%20story/Two%20Storey.jpg",
   		"detailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/mtoy%20story/Two%20Storey.jpg",
   		"description": "",
-  		"fileUrlSave": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/The%20house/The%20house.melsave",
+  		"fileUrl": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/The%20house/The%20house.melsave",
 	}
 ]
