@@ -2,7 +2,6 @@
 	{
 		"id": 46464,
   		"title": "Two Storey",
-		"type": "save",
   		"thumbnailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/mtoy%20story/Two%20Storey.jpg",
   		"detailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/mtoy%20story/Two%20Storey.jpg",
   		"description": "",
@@ -13,10 +12,17 @@
 	{
 		"id": 47474,
   		"title": "Three Storey",
-		"type": "save",
   		"thumbnailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/mtoy%20story/Two%20Storey.jpg",
   		"detailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/mtoy%20story/Two%20Storey.jpg",
   		"description": "",
-  		"fileUrl": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/mtoy%20story/mTwo%20Storey.zip" 
-	}
+  		"fileUrlMod": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/mtoy%20story/mTwo%20Storey.zip" 
+	},
+	{
+		"id": 46464,
+  		"title": "Two Storey",
+  		"thumbnailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/mtoy%20story/Two%20Storey.jpg",
+  		"detailImage": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/mtoy%20story/Two%20Storey.jpg",
+  		"description": "",
+  		"fileUrlSave": "https://bucket-melmod.s3.us-east-1.amazonaws.com/Building/mtoy%20story/sTwo%20Storey.zip",
+	}, 
 ]
