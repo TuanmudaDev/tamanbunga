@@ -12,10 +12,6 @@
     "itemsUrl": "item_military.json"
   },
   {
-    "name": "Storey",
-    "itemsUrl": "item_storey_new.json"
-  },
-  {
     "name": "Vehicle",
     "itemsUrl": "item_vehicle.json"
   },
